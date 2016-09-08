@@ -17,3 +17,6 @@ drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week08
 drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week09
 drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week10
 /home/fasilkom/mahasiswa/h/hegi.adi/os162/week01
+today is date +%d\ %b\ %Y\ at\ %h:%M:%S
+today is 08 Sep 2016 at Sep:08:05
+today is 08 Sep 2016 at 23:09:16
