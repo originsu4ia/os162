@@ -1,0 +1,1 @@
+this week's task is quite fun and easy, it's all about introduction of using git and a bit kesson of scripting 
