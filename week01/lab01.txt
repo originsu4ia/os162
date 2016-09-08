@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 hegi.adi StafCS 4096 Sep  8 22:37 .
+drwx--x--x  3 hegi.adi StafCS 4096 Sep  8 15:44 ..
+drwxr-xr-x  8 hegi.adi StafCS 4096 Sep  8 15:43 .git
+-rw-r--r--  1 hegi.adi StafCS    0 Sep  8 22:38 lab01.txt
+-rw-r--r--  1 hegi.adi StafCS    7 Sep  8 15:05 README.md
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:32 SandBox
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:41 week00
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week01
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week02
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week03
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week04
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week05
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week06
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week07
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week08
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week09
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep  8 15:15 week10
+/home/fasilkom/mahasiswa/h/hegi.adi/os162/week01
