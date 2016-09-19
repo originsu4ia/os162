@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/h/hegi.adi/.gnupg/pubring.gpg
+------------------------------------------------------
+pub   4096R/5837D197 2016-09-19 [expires: 2017-03-18]
+uid                  Hegi Adi Laksana (hopefully she will be mine) <hegi.adi@ui.ac.id>
+sub   4096R/23AFAAAA 2016-09-19 [expires: 2017-03-18]
+

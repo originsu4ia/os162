@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x  2 hegi.adi StafCS 4096 Sep 19 09:34 .
+drwxr-xr-x 15 hegi.adi StafCS 4096 Sep 19 09:28 ..
+-rw-r--r--  1 hegi.adi StafCS 1621 Sep 19 09:34 00-toc.txt
+-rw-r--r--  1 hegi.adi StafCS 3158 Sep 19 09:34 01-public-osteam.txt
+-rw-r--r--  1 hegi.adi StafCS    0 Sep  8 15:15 dummy
